@@ -1,6 +1,6 @@
 {
   "accounts": [
-    { "id": "acc123456" },
-    { "id": "0102" }
+    { "email": "thezainic@gmail.com" },
+    { "email": "test@mail.com" }
   ]
 }
