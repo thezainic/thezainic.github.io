@@ -1,0 +1,22 @@
+[
+  {
+    "wa": "081234567890",
+    "status": "active"
+  },
+  {
+    "wa": "081234567891",
+    "status": "inactive"
+  },
+  {
+    "wa": "081234567892",
+    "status": "active"
+  },
+  {
+    "wa": "081234567893",
+    "status": "inactive"
+  },
+  {
+    "wa": "081234567894",
+    "status": "active"
+  }
+]
